@@ -4,3 +4,9 @@
 
 ## Difference between Git and GitHub
     Git is a version control system that allows developers manage and track changes in their source code history WHILE GitHub is a cloud-based hosting service for managing git repositories.
+
+## Alternatives to GitHub
+    1. GitLab
+    2. Bitbucket
+    3. Azure DevOps
+    
