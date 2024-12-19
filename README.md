@@ -20,3 +20,6 @@
     3. Delete or revert commits that are no longer necessary. 
     The command is: `git rebase main`
 
+## Git cherry-pick
+    The git cherry-pick command is a command that lets developers copy a specific commit from one branch and apply it to another branch.
+    The command is: `git cherry-pick<commit-hash>`
