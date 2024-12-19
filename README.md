@@ -9,4 +9,7 @@
     1. GitLab
     2. Bitbucket
     3. Azure DevOps
-    
+
+## Difference between git fetch and git pull
+    The git pull command can copy changes from a remote repository directly into your working directory and also to your local git repository WHILE the git fetch command only copies changes into your local git repository.
+
